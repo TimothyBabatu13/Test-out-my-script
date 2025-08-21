@@ -1,0 +1,12 @@
+{
+  "name": "OPOS",
+  "symbol": "OPOS",
+  "description": "Only Possible On Solana",
+  "image": "https://raw.githubusercontent.com/TimothyBabatu13/Test-out-my-script/main/assets/Fucking%20Juice%20Wrld.png",
+  "attributes": [
+    {
+      "trait_type": "Item",
+      "value": "Developer Portal"
+    }
+  ]
+}
